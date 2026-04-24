@@ -8,10 +8,6 @@ This project implements S-AES encryption and decryption in Cipher Feedback (CFB)
 
 
 ## 📄 Project Presentation
-Click the link below to view or download the presentation for this project:
-
-[Download SAES_CFB_Project.pptx](./SAES_CFB_Project.pptx
-
 You can find the project presentation in the file list above: [SAES_CFB_Project.pptx](./SAES_CFB_Project.pptx)
 
 To run the code:
