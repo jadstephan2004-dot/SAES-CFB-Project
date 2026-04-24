@@ -7,5 +7,7 @@ This project implements S-AES encryption and decryption in Cipher Feedback (CFB)
 - `brute_force.py`: Demonstrates a brute-force attack on a 16-bit key.
 
 
-## Project Presentation
-You can download the project PowerPoint here: ./SAES_Slides.pptx
+## 📄 Project Presentation
+Click the link below to view or download the presentation for this project:
+
+[Download SAES_CFB_Project.pptx](./SAES_CFB_Project.pptx
